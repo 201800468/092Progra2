@@ -1,0 +1,17 @@
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\bin\Debug\net6.0-windows\201800468_Tienda.exe
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\bin\Debug\net6.0-windows\201800468_Tienda.deps.json
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\bin\Debug\net6.0-windows\201800468_Tienda.runtimeconfig.json
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\bin\Debug\net6.0-windows\201800468_Tienda.dll
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\bin\Debug\net6.0-windows\ref\201800468_Tienda.dll
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\bin\Debug\net6.0-windows\201800468_Tienda.pdb
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\201800468_Tienda.vbproj.AssemblyReference.cache
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\_201800468_Tienda.Form1.resources
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\201800468_Tienda.vbproj.GenerateResource.cache
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\201800468_Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\201800468_Tienda.AssemblyInfoInputs.cache
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\201800468_Tienda.AssemblyInfo.vb
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\201800468_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\201800468_Tienda.dll
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\ref\201800468_Tienda.dll
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\201800468_Tienda.pdb
+C:\Users\1998h\Desktop\Programacion\201800468_Tarea2\201800468_Tienda\201800468_Tienda\obj\Debug\net6.0-windows\201800468_Tienda.genruntimeconfig.cache
